@@ -1,0 +1,1 @@
+{"id":"plan-demo-48-expensive","steps":[{"action":"Fetch the two source papers","estimate":{"minutes":5,"usd":0.1},"id":"s1"},{"action":"Run the full literature sweep","estimate":{"minutes":90,"usd":4.5},"id":"s2"},{"action":"Summarise the findings","estimate":{"minutes":15},"id":"s3"},{"action":"Delete the old index","id":"s4","irreversible":true}],"version":1}
